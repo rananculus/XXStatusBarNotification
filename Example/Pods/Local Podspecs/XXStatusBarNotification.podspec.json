@@ -1,0 +1,22 @@
+{
+  "name": "XXStatusBarNotification",
+  "version": "0.1.0",
+  "summary": "A short description of XXStatusBarNotification.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/rananculus/XXStatusBarNotification",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "rananculus": "33623454+rananculus@users.noreply.github.com"
+  },
+  "source": {
+    "git": "https://github.com/rananculus/XXStatusBarNotification.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "XXStatusBarNotification/Classes/**/*"
+}
